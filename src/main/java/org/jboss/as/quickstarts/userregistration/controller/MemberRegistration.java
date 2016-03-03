@@ -1,4 +1,4 @@
-package org.jboss.as.quickstarts.kitchensink.controller;
+package org.jboss.as.quickstarts.userregistration.controller;
 
 import java.util.logging.Logger;
 

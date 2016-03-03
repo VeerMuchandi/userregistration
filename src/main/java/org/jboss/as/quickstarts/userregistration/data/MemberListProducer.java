@@ -1,6 +1,6 @@
-package org.jboss.as.quickstarts.kitchensink.data;
+package org.jboss.as.quickstarts.userregistration.data;
 
-import org.jboss.as.quickstarts.kitchensink.model.Member;
+import org.jboss.as.quickstarts.userregistration.model.Member;
 import java.util.List;
 import javax.annotation.PostConstruct;
 import javax.enterprise.context.RequestScoped;

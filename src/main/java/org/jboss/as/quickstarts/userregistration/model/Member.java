@@ -1,4 +1,4 @@
-package org.jboss.as.quickstarts.kitchensink.model;
+package org.jboss.as.quickstarts.userregistration.model;
 
 import java.io.Serializable;
 

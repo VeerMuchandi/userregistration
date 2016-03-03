@@ -1,4 +1,4 @@
-package org.jboss.as.quickstarts.kitchensink.rest;
+package org.jboss.as.quickstarts.userregistration.rest;
 
 import java.util.List;
 
